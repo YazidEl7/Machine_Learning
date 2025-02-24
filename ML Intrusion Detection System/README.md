@@ -5,6 +5,9 @@ Binary and Multi class classification
 https://rdm.uq.edu.au/files/c31a9f50-ef99-11ed-ab7b-c7846b13c8a9
 or go to : https://staff.itee.uq.edu.au/marius/NIDS_datasets/
 
+## Google Collab notebook :
+[Notebook](./IDS_v2.ipynb)
+
 ## Description
 
 This project focuses on building an Intrusion Detection System (IDS) using machine learning techniques for binary and multi-class classification of network traffic. The goal is to accurately identify malicious activities within a network by analyzing network flow data. 
